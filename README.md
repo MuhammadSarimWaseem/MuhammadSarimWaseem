@@ -1,4 +1,4 @@
-# Hi there 👋 I am Muhammad Amas Waseem
+# Hi there 👋 I am Muhammad Sarim Waseem
 ## Freelancer and Student of CS
 
 
