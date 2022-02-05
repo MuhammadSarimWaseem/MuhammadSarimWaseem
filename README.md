@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/_sarimwaseem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 
 # My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmasWaseem&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 # Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmasWaseem&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/AmasWaseem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSarimWaseem&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/AmasWaseem/github-readme-stats)
