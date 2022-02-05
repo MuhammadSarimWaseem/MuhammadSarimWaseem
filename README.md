@@ -1,6 +1,4 @@
 # Hi there 👋 I am Muhammad Sarim Waseem
-## Freelancer and Student of CS
-
 
 ### - 🌱 I’m currently learning Python.
 ### - 👯 I’m looking to collaborate on open source project.
