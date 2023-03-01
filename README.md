@@ -2,7 +2,7 @@
 
 ### - 🌱 I’m currently learning Python.
 ### - 👯 I’m looking to collaborate on open source project.
-### - 💬 Ask me about anything from the Python, HTML and CSS, SQL.
+### - 💬 Ask me about anything from the Python, HTML and CSS, SQL, EXCEL.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
