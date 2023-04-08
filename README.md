@@ -15,7 +15,6 @@
 ### - 📫 Reach out to me:
 <a href="https://www.facebook.com/sarim.waseem.370/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href="https://www.instagram.com/_sarimwaseem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
-<a href="(https://www.linkedin.com/in/sarimwaseem/)" target="_blank"><img src="https://img.icons8.com/color/256/linkedin-circled.png"/></a>
 
 # My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
