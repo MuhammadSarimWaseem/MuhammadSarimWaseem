@@ -1,9 +1,8 @@
 # Hi there 👋 I am Muhammad Sarim Waseem
 
-I'm Computer Science Undergrad.
-### - 🌱 I’m currently learning Python.
-### - 👯 I’m looking to collaborate on open source project.
-### - 💬 Ask me about anything from the Python, HTML and CSS, SQL, EXCEL.
+### - I'm Computer Science Undergrad.
+### - I’m currently learning Python and Data Analytics.
+### -  I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
