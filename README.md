@@ -1,5 +1,6 @@
 # Hi there 👋 I am Muhammad Sarim Waseem
 
+I'm Computer Science Undergrad.
 ### - 🌱 I’m currently learning Python.
 ### - 👯 I’m looking to collaborate on open source project.
 ### - 💬 Ask me about anything from the Python, HTML and CSS, SQL, EXCEL.
