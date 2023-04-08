@@ -4,7 +4,7 @@
 ### - I’m currently learning Python and Data Analytics.
 ### -  I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif)" align="right"/>
 
 ### - Languages and Tools
 <span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
