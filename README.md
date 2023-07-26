@@ -1,7 +1,7 @@
 # Hi there 👋 I am Muhammad Sarim Waseem
 
-### - I'm Computer Science Undergrad.
-### - I’m currently learning Python and Data Analytics.
+### - I'm Computer Science Undergrad in Karachi University.
+### - I’m currently learning Python, Data Analytics and Web Development.
 ### -  I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
