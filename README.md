@@ -1,8 +1,11 @@
-# Hi there 👋  I am Muhammad Sarim Waseem
+<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
+<!-- End here -->
+  <div align="left">
+    &nbsp; ⇢ &nbsp; I'm Computer Science Undergrad.</br>
+    &nbsp; ⇢ &nbsp; I'm currently learning frontend development and enhancing my skills.</br>
+    &nbsp; ⇢ &nbsp; I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).</br>
+  
 
-### - I'm Computer Science Undergrad in Karachi University.
-### - I’m currently learning Python, Data Analytics and Web Development.
-### -  I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
