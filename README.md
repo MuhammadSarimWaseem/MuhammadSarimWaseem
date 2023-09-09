@@ -7,10 +7,10 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### - Languages and Tools
-<span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
 
 ### - 📫 Reach out to me:
