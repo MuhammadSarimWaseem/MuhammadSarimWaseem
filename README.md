@@ -36,13 +36,11 @@
 <a href="https://www.instagram.com/_sarimwaseem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 <a href="https://www.linkedin.com/in/sarimwaseem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
-# My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Github Stats
 <p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&show_icons=true&theme=nightowl&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadSarimWaseem&theme=nightowl&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
+
 # Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSarimWaseem&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/AmasWaseem/github-readme-stats)
