@@ -38,8 +38,8 @@
 
 ## My Github Stats
 <p>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&show_icons=true&theme=nightowl&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadSarimWaseem&theme=nightowl&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&show_icons=true&theme=nightowl&hide_border=true&bg_color=1F222E"  />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadSarimWaseem&theme=nightowl&hide_border=true&fire=C77800&ring=DD910B&background=1F222E"  />
 </p>
 
 # Most Used Languages
