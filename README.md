@@ -35,6 +35,7 @@
 <a href="https://www.facebook.com/sarim.waseem.370/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href="https://www.instagram.com/_sarimwaseem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 <a href="https://www.linkedin.com/in/sarimwaseem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+---
 <br />
 
 <p align="center">
@@ -47,12 +48,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&theme=gruvbox&show_icons=true" width="420"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=MuhammadSarimWaseem&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="100%"/>
 </p>
-
----
-
-<br />
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MuhammadSarimWaseem">
-
-</a>
-<a href="https://github.com/muhammadamas?tab=followers"><img src="https://img.shields.io/github/followers/MuhammadSarimWaseem?label=Followers&style=social" alt="GitHub Badge"></a>
