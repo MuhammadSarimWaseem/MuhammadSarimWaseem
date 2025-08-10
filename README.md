@@ -8,18 +8,18 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Enthusiast;Lifelong+Learner&center=true&size=20" alt="Typing SVG" />
 </h3>
 
 ---
 
-<img align="right" width="120" src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif" alt="Developer GIF"/>
-
 ### 👨‍💻 About Me  
-- 🎓 Computer Science Undergraduate at University of Karachi – UBIT.  
-- 🌱 Currently focusing on **Frontend Development** and expanding into **Full-Stack MERN** projects.  
-- 🤝 Open to collaborating on **Web Development, Open Source, and Freelance Projects**.  
-- 💡 Passionate about **creating impactful solutions** through technology.  
+I’m **Muhammad Sarim**, a results-driven **Full Stack Developer** specializing in the **MERN stack**.  
+With a strong foundation in **MongoDB, Express.js, React.js, and Node.js**, I create dynamic, scalable, and user-focused web applications.  
+
+Over time, I’ve gained valuable industry experience through internships, freelance projects, and academic work — delivering solutions that combine **clean code, performance optimization, and modern UI/UX design**.  
+
+Beyond coding, I’m passionate about **continuous learning** and exploring emerging technologies to stay ahead in a fast-evolving digital world. My mission is simple: **turn ideas into impactful digital products**.  
 
 ---
 
@@ -51,4 +51,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSarimWaseem&langs_count=8&layout=compact&theme=gruvbox" width="350" />
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&theme=gruvbox&show_icons=true" width="420"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+[![Muhammad Sarim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSarimWaseem&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSarimWaseem&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5" />
 </p>
