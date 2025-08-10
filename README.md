@@ -1,47 +1,54 @@
-<p>
-  <h1 align="center"><b>Hi there I'm Muhammad Sarim <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
-</p>
-<div align="center" width="50">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
-</div>
-<div align="center">
-  
 <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
-  </a>
+  Hi there, I'm <b>Muhammad Sarim</b> 
+  <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="Waving Hand" width="30"/>
 </h1>
-  </div>
-  
-<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
-<!-- End here -->
-  <div align="left">
-    &nbsp; ⇢ &nbsp; I'm Computer Science Undergrad.</br>
-    &nbsp; ⇢ &nbsp; I'm currently learning frontend development and enhancing my skills.</br>
-    &nbsp; ⇢ &nbsp; I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).</br>
 
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding" width="60%"/>
+</div>
 
-### - Languages and Tools
-<spna><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
-<img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img style="display:inline" src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
-<img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20" alt="Typing SVG" />
+</h3>
 
-### - 📫 Reach out to me:
-<a href="https://www.facebook.com/sarim.waseem.370/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href="https://www.instagram.com/_sarimwaseem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
-<a href="https://www.linkedin.com/in/sarimwaseem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 ---
-<br />
 
+<img align="right" width="120" src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif" alt="Developer GIF"/>
+
+### 👨‍💻 About Me  
+- 🎓 Computer Science Undergraduate at University of Karachi – UBIT.  
+- 🌱 Currently focusing on **Frontend Development** and expanding into **Full-Stack MERN** projects.  
+- 🤝 Open to collaborating on **Web Development, Open Source, and Freelance Projects**.  
+- 💡 Passionate about **creating impactful solutions** through technology.  
+
+---
+
+### 🛠 Languages & Tools
+<p>
+  <img src="https://img.icons8.com/color/50/html-5.png"/>
+  <img src="https://img.icons8.com/color/50/css3.png"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
+  <img src="https://img.icons8.com/ultraviolet/48/react.png"/>
+  <img src="https://img.icons8.com/color/50/python.png"/>
+  <img src="https://img.icons8.com/color/50/visual-studio-code-2019.png"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p>
+  <a href="https://www.facebook.com/sarim.waseem.370/"><img src="https://img.icons8.com/color/48/facebook-new.png"/></a>
+  <a href="https://www.instagram.com/_sarimwaseem/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png"/></a>
+  <a href="https://www.linkedin.com/in/sarimwaseem/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-    <a href="https://github.com/MuhammadSarimWaseem/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muhammad Sarim streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSarimWaseem&theme=gruvbox&hide_border=true"/>
-    </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSarimWaseem&theme=gruvbox&hide_border=true" alt="Streak Stats"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSarimWaseem&langs_count=8&layout=compact&theme=gruvbox" width="350" />
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&theme=gruvbox&show_icons=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSarimWaseem&langs_count=8&layout=compact&theme=gruvbox" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&theme=gruvbox&show_icons=true" width="420"/>
 </p>
