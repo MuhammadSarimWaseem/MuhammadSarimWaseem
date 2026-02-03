@@ -44,23 +44,3 @@ Beyond coding, I’m passionate about **continuous learning** and exploring emer
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSarimWaseem&theme=gruvbox&hide_border=true" alt="Streak Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSarimWaseem&langs_count=8&layout=compact&theme=gruvbox" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSarimWaseem&theme=gruvbox&show_icons=true" width="420"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-[![Muhammad Sarim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSarimWaseem&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSarimWaseem&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5" />
-</p>
